@@ -1,21 +1,20 @@
-# Linalg
+# Elixir Linalg
 
-**TODO: Add description**
+Este es un proyecto **de prueba** y experimentar con Elixir y álgebra lineal.
 
-## Installation
+Aquí encontrarás funciones básicas para trabajar con matrices, como el cálculo de determinantes, para practicar y explorar.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `linalg` to your list of dependencies in `mix.exs`:
+⚠️ **No es un proyecto profesional ni una librería estable**, solo un espacio para aprender y probar cosas.
 
-```elixir
-def deps do
-  [
-    {:linalg, "~> 0.1.0"}
-  ]
-end
-```
+---
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/linalg>.
+# Elixir Linalg
+
+This is a test **pet proyect** to toy around with Elixir and linear algebra.
+
+Here you might find functions to work with matrices, calculate determinants and to practice and explore.
+
+⚠️ **This is not meant to be a serious project or any stable library**, just a space to test stuff.
+
+
 
